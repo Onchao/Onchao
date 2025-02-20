@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Artur</h1>
+<h3 align="center">I love creating unique projects with real-world applications.</h3>
+
+---
+
+<br>
+
+## Here are my favourite projects:
+<img align="right" width="300" src="https://wheelsinshoes.com/cdn/shop/files/putting_on_1.jpg?v=1722785706&width=750" />
+
+#### [wheelsinshoes.com](https://wheelsinshoes.com/) 
+fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdf sfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfd
+
+<br>
+
+##
+
+<img align="right" width="300" src="https://wheelsinshoes.com/cdn/shop/files/putting_on_1.jpg?v=1722785706&width=750" />
+
+#### [wheelsinshoes.com](https://wheelsinshoes.com/) 
+fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdf sfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfd
+
+<br>
+
+##
+
+<img align="right" width="300" src="https://wheelsinshoes.com/cdn/shop/files/putting_on_1.jpg?v=1722785706&width=750" />
+
+#### [wheelsinshoes.com](https://wheelsinshoes.com/) 
+fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdf sfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfd
+
+<br>
+
+##
+
+<img align="right" width="300" src="https://wheelsinshoes.com/cdn/shop/files/putting_on_1.jpg?v=1722785706&width=750" />
+
+#### [wheelsinshoes.com](https://wheelsinshoes.com/) 
+fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdf sfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfd
+
+<br>
+
+##
 
 <!--
-**Onchao/Onchao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
