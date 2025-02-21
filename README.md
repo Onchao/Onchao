@@ -32,7 +32,7 @@ HexagonGenerator is a tool for designing unique, customizable locations for boar
 <img align="right" width="240" src="https://raw.githubusercontent.com/Onchao/Onchao/refs/heads/main/rocket.png" />
 </a>
 
-#### [github.com/Onchao/SpaceFlightSimulator/](https://github.com/Onchao/SpaceFlightSimulator/) 
+### [github.com/Onchao/SpaceFlightSimulator/](https://github.com/Onchao/SpaceFlightSimulator/) 
 Space Flight Simulator is a sandbox game where players can build and fly rockets in a two-dimensional environment. The game features realistic physics, with celestial bodies following orbital mechanics and rockets affected by propulsion, gravity, aerodynamic drag, and collisions. Players can construct multi-stage rockets to launch, orbit, and land (or crash) on various planets and moons.
 <br>
 <br>
@@ -44,7 +44,7 @@ Space Flight Simulator is a sandbox game where players can build and fly rockets
 <img align="right" width="240" src="https://raw.githubusercontent.com/Onchao/Onchao/refs/heads/main/car.png" />
 </a>
 
-#### [github.com/Onchao/HillClimb-RL](https://github.com/Onchao/HillClimb-RL) 
+### [github.com/Onchao/HillClimb-RL](https://github.com/Onchao/HillClimb-RL) 
 
 A game where the goal is to drive a car across challenging, procedurally generated maps that require more than just accelerating forward. The simulation features realistic physics, including collisions, gravity, and friction. A player can control the car, or it can be driven by an AI agent that learns using a reinforcement learning algorithm. Built with C++ and OpenGL.
 <br>
@@ -57,7 +57,7 @@ A game where the goal is to drive a car across challenging, procedurally generat
 <img align="right" width="240" src="https://raw.githubusercontent.com/Onchao/Onchao/refs/heads/main/car.png" />
 </a>
 
-#### [github.com/Onchao/Polishing-Machine-1Axis-CNC](https://github.com/Onchao/Polishing-Machine-1Axis-CNC) 
+### [github.com/Onchao/Polishing-Machine-1Axis-CNC](https://github.com/Onchao/Polishing-Machine-1Axis-CNC) 
 
 An Arduino-controlled machine for uniform polishing of metal flat bars.
 <br>
