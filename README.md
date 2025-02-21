@@ -12,8 +12,9 @@
  
 #### [wheelsinshoes.com](https://wheelsinshoes.com/) 
 
-I am a passionate inline skater. The project began when I realized that taking off and putting on my skates every time I needed to use public transport was taking an insufferable amount of time (it’s illegal to enter public transport while wearing skates). I envisioned an attachment that fits onto the wheels, essentially converting them into shoes. After many iterations, I developed a solution that works for me, and I eventually founded a company. You can learn more about the project’s development here:  [https://wheelsinshoes.com/pages/about-us](https://wheelsinshoes.com/pages/about-us)
+I am a passionate inline skater. The project began when I realized that taking off and putting on my skates every time I needed to use public transport was taking an insufferable amount of time (it’s illegal to enter public transport while wearing skates). I envisioned an attachment that fits onto the wheels, essentially converting them into shoes.
 
+After many iterations, I developed a solution that works for me, and I eventually founded a company. You can learn more about the project’s development here:  [wheelsinshoes.com/pages/about-us](https://wheelsinshoes.com/pages/about-us)
 ##
 
 <a href="https://github.com/Onchao/HexagonGenerator/">
@@ -21,8 +22,7 @@ I am a passionate inline skater. The project began when I realized that taking o
 </a>
 
 #### [github.com/Onchao/HexagonGenerator](https://github.com/Onchao/HexagonGenerator) 
-fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdf sfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfd
-
+HexagonGenerator is a tool for designing unique, customizable locations for board games. It produces tileable multi-hexagonal tiles that interlock like puzzle pieces, making it possible to create unique maps in each session. For each designed location, the program generates a 3D mesh of a tile and a 2D sticker with location details that goes on top.
 <br>
 
 ##
@@ -45,7 +45,7 @@ Space Flight Simulator is a sandbox game where players can build and fly rockets
 
 #### [github.com/Onchao/HillClimb-RL](https://github.com/Onchao/HillClimb-RL) 
 
-A computer game where the goal is to drive a car across challenging, procedurally generated maps that require more than just accelerating forward. The simulation features realistic physics, including collisions, gravity, and friction. A player can control the car, or it can be driven by an AI agent that learns using a reinforcement learning algorithm. Built with C++ and OpenGL.
+A game where the goal is to drive a car across challenging, procedurally generated maps that require more than just accelerating forward. The simulation features realistic physics, including collisions, gravity, and friction. A player can control the car, or it can be driven by an AI agent that learns using a reinforcement learning algorithm. Built with C++ and OpenGL.
 <br>
 <br>
 
@@ -58,6 +58,10 @@ A computer game where the goal is to drive a car across challenging, procedurall
 #### [github.com/Onchao/Polishing-Machine-1Axis-CNC](https://github.com/Onchao/Polishing-Machine-1Axis-CNC) 
 
 An Arduino-controlled machine for uniform polishing of metal flat bars.
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ##
