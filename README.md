@@ -52,13 +52,24 @@ fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdf sfdsdfsfdsdfsfdsdfsfdsdfs
 <img align="right" width="240" src="https://raw.githubusercontent.com/Onchao/Onchao/refs/heads/main/car.png" />
 </a>
 
-#### [https://github.com/Onchao/HillClimb-RL](https://github.com/Onchao/HillClimb-RL) 
-fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdf sfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfd
+#### [github.com/Onchao/HillClimb-RL](https://github.com/Onchao/HillClimb-RL) 
 
+A computer game where the goal is to drive a car across challenging, procedurally generated maps that require more than just accelerating forward. The simulation features realistic physics, including collisions, gravity, and friction. A player can control the car, or it can be driven by an AI agent that learns using a reinforcement learning algorithm. Built with C++ and OpenGL.
+<br>
 <br>
 
 ##
 
+<a href="https://github.com/Onchao/Polishing-Machine-1Axis-CNC">
+<img align="right" width="240" src="https://raw.githubusercontent.com/Onchao/Onchao/refs/heads/main/car.png" />
+</a>
+
+#### [github.com/Onchao/Polishing-Machine-1Axis-CNC](https://github.com/Onchao/Polishing-Machine-1Axis-CNC) 
+
+An Arduino-controlled machine for uniform polishing of metal flat bars.
+<br>
+
+##
 
 
 
