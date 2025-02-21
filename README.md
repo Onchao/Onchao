@@ -10,7 +10,7 @@
 <img align="right" width="240" src="https://wheelsinshoes.com/cdn/shop/files/putting_on_1.jpg?v=1722785706&width=750" />
 </a>
  
-#### [wheelsinshoes.com](https://wheelsinshoes.com/) 
+### [wheelsinshoes.com](https://wheelsinshoes.com/) 
 
 I am a passionate inline skater. The project began when I realized that taking off and putting on my skates every time I needed to use public transport was taking an insufferable amount of time (it’s illegal to enter public transport while wearing skates). I envisioned an attachment that fits onto the wheels, essentially converting them into shoes.
 
@@ -21,8 +21,9 @@ After many iterations, I developed a solution that works for me, and I eventuall
 <img align="right" width="240" src="https://raw.githubusercontent.com/Onchao/HexagonGenerator/refs/heads/main/docs/result.jpg" />
 </a>
 
-#### [github.com/Onchao/HexagonGenerator](https://github.com/Onchao/HexagonGenerator) 
+### [github.com/Onchao/HexagonGenerator](https://github.com/Onchao/HexagonGenerator) 
 HexagonGenerator is a tool for designing unique, customizable locations for board games. It produces tileable multi-hexagonal tiles that interlock like puzzle pieces, making it possible to create unique maps in each session. For each designed location, the program generates a 3D mesh of a tile and a 2D sticker with location details that goes on top.
+<br>
 <br>
 
 ##
@@ -46,6 +47,7 @@ Space Flight Simulator is a sandbox game where players can build and fly rockets
 #### [github.com/Onchao/HillClimb-RL](https://github.com/Onchao/HillClimb-RL) 
 
 A game where the goal is to drive a car across challenging, procedurally generated maps that require more than just accelerating forward. The simulation features realistic physics, including collisions, gravity, and friction. A player can control the car, or it can be driven by an AI agent that learns using a reinforcement learning algorithm. Built with C++ and OpenGL.
+<br>
 <br>
 <br>
 
