@@ -6,23 +6,13 @@
 ## Here are my favourite projects:
 
 
-
-
-
-
-
-
-
-
 <a href="https://wheelsinshoes.com/">
 <img align="right" width="240" src="https://wheelsinshoes.com/cdn/shop/files/putting_on_1.jpg?v=1722785706&width=750" />
 </a>
  
 #### [wheelsinshoes.com](https://wheelsinshoes.com/) 
-fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdf sfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfs fdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsfdsdfsf dsdfsfdsdfsfdsdfsfdsdfsfd
 
-<div>
-<br>
+I am a passionate inline skater. The project began when I realized that taking off and putting on my skates every time I needed to use public transport was taking an insufferable amount of time (it’s illegal to enter public transport while wearing skates). I envisioned an attachment that fits onto the wheels, essentially converting them into shoes. After many iterations, I developed a solution that works for me, and I eventually founded a company. You can learn more about the project’s development here:  [https://wheelsinshoes.com/pages/about-us](https://wheelsinshoes.com/pages/about-us)
 
 ##
 
