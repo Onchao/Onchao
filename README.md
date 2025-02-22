@@ -54,13 +54,12 @@ A game where the goal is to drive a car across challenging, procedurally generat
 ##
 
 <a href="https://github.com/Onchao/Polishing-Machine-1Axis-CNC">
-<img align="right" width="240" src="https://raw.githubusercontent.com/Onchao/Onchao/refs/heads/main/car.png" />
+<img align="right" width="240" src="https://raw.githubusercontent.com/Onchao/Polishing-Machine-1Axis-CNC/refs/heads/main/docs/photo_blur.JPG" />
 </a>
 
 ### [github.com/Onchao/Polishing-Machine-1Axis-CNC](https://github.com/Onchao/Polishing-Machine-1Axis-CNC) 
 
 An Arduino-controlled machine for uniform polishing of metal flat bars.
-<br>
 <br>
 <br>
 <br>
