@@ -22,7 +22,7 @@ After many iterations, I developed a solution that works for me, and I eventuall
 </a>
 
 ### [github.com/Onchao/HexagonGenerator](https://github.com/Onchao/HexagonGenerator) 
-HexagonGenerator is a tool for designing unique, customizable locations for board games. It produces tileable multi-hexagonal tiles that interlock like puzzle pieces, making it possible to create unique maps in each session. For each designed location, the program generates a 3D mesh of a tile and a 2D sticker with location details that goes on top.
+HexagonGenerator is a tool for designing unique, customizable locations for board games. It produces tileable multi-hexagonal tiles that interlock like puzzle pieces, making it possible to create unique maps in each session. For each designed location, the program generates a mesh of a tile for 3D printing and a 2D sticker with location details that goes on top. Built with C++ and Qt.
 <br>
 <br>
 
